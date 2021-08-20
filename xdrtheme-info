@@ -1,12 +1,12 @@
 # Change Theme_Name below with your theme name, space allowed
-THEMENAME="Theme_Name"
+THEMENAME="Mejiku(RGB)"
 # Change Creator_Name below with your name, space allowed
-CREATOR="Creator_Name"
+CREATOR="Adi Putra"
 # Change github_username_account below with your github username, No space allowed
-GITUSER="github_username_account"
+GITUSER="Putra-0"
 # Change github_repo_theme below with your theme repository name, No space allowed
-GITREPO="github_repo_theme"
+GITREPO="xdrtheme-byPutra"
 # Change main_master below with your active branch under theme repository, No space allowed
-GITBRANCH="main_master"
+GITBRANCH="main"
 # Change Theme_Name with  theme version, No space allowed. Example : v1.0 or v2.1-beta
-THEMEVER="v1.0"
+THEMEVER="v2.0"
