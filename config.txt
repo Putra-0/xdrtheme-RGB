@@ -1,0 +1,8 @@
+host=xxx.xxx.xxx.xx
+port=443
+pudp=7300
+user=putraxxxx
+pass=123xxx
+sni=www.xxx.xx
+vmess://eyJhZGQiOixxxxxxx
+trojan://hostname:port
